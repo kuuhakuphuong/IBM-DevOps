@@ -1,0 +1,8 @@
+commit b0d2410c03861a6515027a5ee0d643fe77d839e3
+Author: Luu Van Phuong <84650170+kuuhakuphuong@users.noreply.github.com>
+Date:   Sun May 17 02:02:59 2026 +0700
+
+    Create simple-interest.sh
+
+ simple-interest.sh | 13 +++++++++++++
+ 1 file changed, 13 insertions(+)
